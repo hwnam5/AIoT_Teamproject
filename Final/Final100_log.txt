@@ -1,0 +1,502 @@
+Training: 100%|██████████| 313/313 [00:34<00:00,  8.94it/s]
+Validation:   0%|          | 0/94 [00:00<?, ?it/s]/usr/local/lib/python3.10/dist-packages/torch/utils/checkpoint.py:87: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.37it/s]
+Epoch: 01 | Epoch Train Time: 0m 35s
+	Train Loss: 2.390 | Train Acc: 10.05%
+	 Val. Loss: 2.379 |  Val. Acc: 10.27%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.57it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.33it/s]
+Epoch: 02 | Epoch Train Time: 0m 32s
+	Train Loss: 2.368 | Train Acc: 10.21%
+	 Val. Loss: 2.355 |  Val. Acc: 10.53%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.56it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.66it/s]
+Epoch: 03 | Epoch Train Time: 0m 32s
+	Train Loss: 2.351 | Train Acc: 10.08%
+	 Val. Loss: 2.343 |  Val. Acc: 10.83%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.65it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.50it/s]
+Epoch: 04 | Epoch Train Time: 0m 32s
+	Train Loss: 2.336 | Train Acc: 10.66%
+	 Val. Loss: 2.326 |  Val. Acc: 11.23%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.59it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.65it/s]
+Epoch: 05 | Epoch Train Time: 0m 32s
+	Train Loss: 2.321 | Train Acc: 11.15%
+	 Val. Loss: 2.316 |  Val. Acc: 11.73%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.69it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.78it/s]
+Epoch: 06 | Epoch Train Time: 0m 32s
+	Train Loss: 2.311 | Train Acc: 11.09%
+	 Val. Loss: 2.303 |  Val. Acc: 12.03%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.54it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.31it/s]
+Epoch: 07 | Epoch Train Time: 0m 32s
+	Train Loss: 2.300 | Train Acc: 11.83%
+	 Val. Loss: 2.290 |  Val. Acc: 13.13%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.49it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.49it/s]
+Epoch: 08 | Epoch Train Time: 0m 32s
+	Train Loss: 2.291 | Train Acc: 12.19%
+	 Val. Loss: 2.284 |  Val. Acc: 12.77%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.65it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.83it/s]
+Epoch: 09 | Epoch Train Time: 0m 32s
+	Train Loss: 2.281 | Train Acc: 13.04%
+	 Val. Loss: 2.273 |  Val. Acc: 13.20%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.49it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.76it/s]
+Epoch: 10 | Epoch Train Time: 0m 32s
+	Train Loss: 2.274 | Train Acc: 14.28%
+	 Val. Loss: 2.266 |  Val. Acc: 14.83%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.61it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.91it/s]
+Epoch: 11 | Epoch Train Time: 0m 32s
+	Train Loss: 2.264 | Train Acc: 14.54%
+	 Val. Loss: 2.257 |  Val. Acc: 15.17%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.55it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.84it/s]
+Epoch: 12 | Epoch Train Time: 0m 32s
+	Train Loss: 2.258 | Train Acc: 15.74%
+	 Val. Loss: 2.251 |  Val. Acc: 16.23%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.57it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.70it/s]
+Epoch: 13 | Epoch Train Time: 0m 32s
+	Train Loss: 2.251 | Train Acc: 16.11%
+	 Val. Loss: 2.241 |  Val. Acc: 17.10%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.62it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.59it/s]
+Epoch: 14 | Epoch Train Time: 0m 32s
+	Train Loss: 2.244 | Train Acc: 16.84%
+	 Val. Loss: 2.235 |  Val. Acc: 17.63%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.55it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.46it/s]
+Epoch: 15 | Epoch Train Time: 0m 32s
+	Train Loss: 2.235 | Train Acc: 16.99%
+	 Val. Loss: 2.231 |  Val. Acc: 18.07%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.53it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.23it/s]
+Epoch: 16 | Epoch Train Time: 0m 32s
+	Train Loss: 2.231 | Train Acc: 17.91%
+	 Val. Loss: 2.222 |  Val. Acc: 18.90%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.52it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.57it/s]
+Epoch: 17 | Epoch Train Time: 0m 32s
+	Train Loss: 2.225 | Train Acc: 18.33%
+	 Val. Loss: 2.216 |  Val. Acc: 19.40%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.53it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.78it/s]
+Epoch: 18 | Epoch Train Time: 0m 32s
+	Train Loss: 2.218 | Train Acc: 18.88%
+	 Val. Loss: 2.213 |  Val. Acc: 19.63%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.59it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.82it/s]
+Epoch: 19 | Epoch Train Time: 0m 32s
+	Train Loss: 2.211 | Train Acc: 19.16%
+	 Val. Loss: 2.206 |  Val. Acc: 20.27%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.53it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.53it/s]
+Epoch: 20 | Epoch Train Time: 0m 32s
+	Train Loss: 2.209 | Train Acc: 19.10%
+	 Val. Loss: 2.199 |  Val. Acc: 20.00%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.68it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.38it/s]
+Epoch: 21 | Epoch Train Time: 0m 32s
+	Train Loss: 2.202 | Train Acc: 19.69%
+	 Val. Loss: 2.194 |  Val. Acc: 20.87%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.52it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.63it/s]
+Epoch: 22 | Epoch Train Time: 0m 32s
+	Train Loss: 2.198 | Train Acc: 20.18%
+	 Val. Loss: 2.188 |  Val. Acc: 20.37%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.46it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.51it/s]
+Epoch: 23 | Epoch Train Time: 0m 33s
+	Train Loss: 2.194 | Train Acc: 19.57%
+	 Val. Loss: 2.187 |  Val. Acc: 21.47%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.40it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.81it/s]
+Epoch: 24 | Epoch Train Time: 0m 33s
+	Train Loss: 2.187 | Train Acc: 20.44%
+	 Val. Loss: 2.174 |  Val. Acc: 22.37%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.46it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.68it/s]
+Epoch: 25 | Epoch Train Time: 0m 33s
+	Train Loss: 2.182 | Train Acc: 20.81%
+	 Val. Loss: 2.166 |  Val. Acc: 22.00%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.52it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.26it/s]
+Epoch: 26 | Epoch Train Time: 0m 32s
+	Train Loss: 2.173 | Train Acc: 21.11%
+	 Val. Loss: 2.164 |  Val. Acc: 22.00%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.53it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.56it/s]
+Epoch: 27 | Epoch Train Time: 0m 32s
+	Train Loss: 2.170 | Train Acc: 21.54%
+	 Val. Loss: 2.157 |  Val. Acc: 22.47%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.47it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.51it/s]
+Epoch: 28 | Epoch Train Time: 0m 33s
+	Train Loss: 2.166 | Train Acc: 20.83%
+	 Val. Loss: 2.151 |  Val. Acc: 23.00%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.44it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.76it/s]
+Epoch: 29 | Epoch Train Time: 0m 33s
+	Train Loss: 2.159 | Train Acc: 20.90%
+	 Val. Loss: 2.152 |  Val. Acc: 22.67%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.52it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.17it/s]
+Epoch: 30 | Epoch Train Time: 0m 32s
+	Train Loss: 2.155 | Train Acc: 21.70%
+	 Val. Loss: 2.141 |  Val. Acc: 23.07%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.53it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.67it/s]
+Epoch: 31 | Epoch Train Time: 0m 32s
+	Train Loss: 2.150 | Train Acc: 21.97%
+	 Val. Loss: 2.133 |  Val. Acc: 24.03%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.49it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.71it/s]
+Epoch: 32 | Epoch Train Time: 0m 32s
+	Train Loss: 2.144 | Train Acc: 22.06%
+	 Val. Loss: 2.134 |  Val. Acc: 24.17%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.41it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.50it/s]
+Epoch: 33 | Epoch Train Time: 0m 33s
+	Train Loss: 2.140 | Train Acc: 22.47%
+	 Val. Loss: 2.127 |  Val. Acc: 24.37%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.49it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.72it/s]
+Epoch: 34 | Epoch Train Time: 0m 32s
+	Train Loss: 2.136 | Train Acc: 21.93%
+	 Val. Loss: 2.124 |  Val. Acc: 24.27%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.43it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.86it/s]
+Epoch: 35 | Epoch Train Time: 0m 33s
+	Train Loss: 2.131 | Train Acc: 22.48%
+	 Val. Loss: 2.110 |  Val. Acc: 24.30%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.43it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.93it/s]
+Epoch: 36 | Epoch Train Time: 0m 33s
+	Train Loss: 2.128 | Train Acc: 22.29%
+	 Val. Loss: 2.116 |  Val. Acc: 24.40%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.39it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.04it/s]
+Epoch: 37 | Epoch Train Time: 0m 33s
+	Train Loss: 2.122 | Train Acc: 23.28%
+	 Val. Loss: 2.101 |  Val. Acc: 24.77%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.41it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.65it/s]
+Epoch: 38 | Epoch Train Time: 0m 33s
+	Train Loss: 2.119 | Train Acc: 22.60%
+	 Val. Loss: 2.096 |  Val. Acc: 24.27%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.41it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.65it/s]
+Epoch: 39 | Epoch Train Time: 0m 33s
+	Train Loss: 2.117 | Train Acc: 22.85%
+	 Val. Loss: 2.103 |  Val. Acc: 25.03%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.45it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.88it/s]
+Epoch: 40 | Epoch Train Time: 0m 33s
+	Train Loss: 2.110 | Train Acc: 23.06%
+	 Val. Loss: 2.096 |  Val. Acc: 24.93%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.50it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.21it/s]
+Epoch: 41 | Epoch Train Time: 0m 32s
+	Train Loss: 2.104 | Train Acc: 23.56%
+	 Val. Loss: 2.084 |  Val. Acc: 25.07%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.52it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.33it/s]
+Epoch: 42 | Epoch Train Time: 0m 32s
+	Train Loss: 2.105 | Train Acc: 23.01%
+	 Val. Loss: 2.081 |  Val. Acc: 25.27%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.58it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 21.04it/s]
+Epoch: 43 | Epoch Train Time: 0m 32s
+	Train Loss: 2.099 | Train Acc: 23.49%
+	 Val. Loss: 2.078 |  Val. Acc: 25.30%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.57it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.76it/s]
+Epoch: 44 | Epoch Train Time: 0m 32s
+	Train Loss: 2.098 | Train Acc: 23.07%
+	 Val. Loss: 2.076 |  Val. Acc: 24.50%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.59it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.57it/s]
+Epoch: 45 | Epoch Train Time: 0m 32s
+	Train Loss: 2.098 | Train Acc: 23.19%
+	 Val. Loss: 2.070 |  Val. Acc: 24.60%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.52it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.33it/s]
+Epoch: 46 | Epoch Train Time: 0m 32s
+	Train Loss: 2.087 | Train Acc: 24.69%
+	 Val. Loss: 2.079 |  Val. Acc: 24.53%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.51it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.74it/s]
+Epoch: 47 | Epoch Train Time: 0m 32s
+	Train Loss: 2.089 | Train Acc: 23.67%
+	 Val. Loss: 2.063 |  Val. Acc: 25.20%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.49it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.79it/s]
+Epoch: 48 | Epoch Train Time: 0m 32s
+	Train Loss: 2.084 | Train Acc: 23.88%
+	 Val. Loss: 2.062 |  Val. Acc: 25.60%
+Training: 100%|██████████| 313/313 [00:32<00:00,  9.54it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.57it/s]
+Epoch: 49 | Epoch Train Time: 0m 32s
+	Train Loss: 2.078 | Train Acc: 23.81%
+	 Val. Loss: 2.058 |  Val. Acc: 25.30%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.42it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.21it/s]
+Epoch: 50 | Epoch Train Time: 0m 33s
+	Train Loss: 2.076 | Train Acc: 24.20%
+	 Val. Loss: 2.060 |  Val. Acc: 24.40%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.40it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.76it/s]
+Epoch: 51 | Epoch Train Time: 0m 33s
+	Train Loss: 2.074 | Train Acc: 24.03%
+	 Val. Loss: 2.053 |  Val. Acc: 25.60%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.40it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.99it/s]
+Epoch: 52 | Epoch Train Time: 0m 33s
+	Train Loss: 2.074 | Train Acc: 24.57%
+	 Val. Loss: 2.046 |  Val. Acc: 24.80%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.39it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.67it/s]
+Epoch: 53 | Epoch Train Time: 0m 33s
+	Train Loss: 2.069 | Train Acc: 24.25%
+	 Val. Loss: 2.048 |  Val. Acc: 25.30%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.38it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.39it/s]
+Epoch: 54 | Epoch Train Time: 0m 33s
+	Train Loss: 2.066 | Train Acc: 24.62%
+	 Val. Loss: 2.043 |  Val. Acc: 25.33%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.42it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.62it/s]
+Epoch: 55 | Epoch Train Time: 0m 33s
+	Train Loss: 2.060 | Train Acc: 24.68%
+	 Val. Loss: 2.041 |  Val. Acc: 25.07%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.44it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.86it/s]
+Epoch: 56 | Epoch Train Time: 0m 33s
+	Train Loss: 2.058 | Train Acc: 24.99%
+	 Val. Loss: 2.035 |  Val. Acc: 26.93%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.41it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.37it/s]
+Epoch: 57 | Epoch Train Time: 0m 33s
+	Train Loss: 2.056 | Train Acc: 25.16%
+	 Val. Loss: 2.033 |  Val. Acc: 25.33%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.40it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.91it/s]
+Epoch: 58 | Epoch Train Time: 0m 33s
+	Train Loss: 2.054 | Train Acc: 25.27%
+	 Val. Loss: 2.036 |  Val. Acc: 26.33%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.35it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.76it/s]
+Epoch: 59 | Epoch Train Time: 0m 33s
+	Train Loss: 2.053 | Train Acc: 24.72%
+	 Val. Loss: 2.026 |  Val. Acc: 25.83%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.40it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.91it/s]
+Epoch: 60 | Epoch Train Time: 0m 33s
+	Train Loss: 2.046 | Train Acc: 24.69%
+	 Val. Loss: 2.024 |  Val. Acc: 25.40%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.43it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.71it/s]
+Epoch: 61 | Epoch Train Time: 0m 33s
+	Train Loss: 2.045 | Train Acc: 25.35%
+	 Val. Loss: 2.024 |  Val. Acc: 25.53%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.36it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.32it/s]
+Epoch: 62 | Epoch Train Time: 0m 33s
+	Train Loss: 2.041 | Train Acc: 25.42%
+	 Val. Loss: 2.020 |  Val. Acc: 26.07%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.42it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 21.02it/s]
+Epoch: 63 | Epoch Train Time: 0m 33s
+	Train Loss: 2.042 | Train Acc: 24.94%
+	 Val. Loss: 2.015 |  Val. Acc: 26.47%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.37it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.69it/s]
+Epoch: 64 | Epoch Train Time: 0m 33s
+	Train Loss: 2.034 | Train Acc: 25.18%
+	 Val. Loss: 2.012 |  Val. Acc: 25.63%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.43it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.65it/s]
+Epoch: 65 | Epoch Train Time: 0m 33s
+	Train Loss: 2.036 | Train Acc: 25.63%
+	 Val. Loss: 2.007 |  Val. Acc: 25.70%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.44it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.78it/s]
+Epoch: 66 | Epoch Train Time: 0m 33s
+	Train Loss: 2.032 | Train Acc: 25.13%
+	 Val. Loss: 2.012 |  Val. Acc: 26.40%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.33it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.86it/s]
+Epoch: 67 | Epoch Train Time: 0m 33s
+	Train Loss: 2.032 | Train Acc: 25.45%
+	 Val. Loss: 2.005 |  Val. Acc: 25.27%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.34it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.78it/s]
+Epoch: 68 | Epoch Train Time: 0m 33s
+	Train Loss: 2.031 | Train Acc: 25.25%
+	 Val. Loss: 2.003 |  Val. Acc: 26.00%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.35it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.24it/s]
+Epoch: 69 | Epoch Train Time: 0m 33s
+	Train Loss: 2.020 | Train Acc: 25.38%
+	 Val. Loss: 1.999 |  Val. Acc: 25.87%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.39it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.64it/s]
+Epoch: 70 | Epoch Train Time: 0m 33s
+	Train Loss: 2.026 | Train Acc: 25.47%
+	 Val. Loss: 1.996 |  Val. Acc: 26.20%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.35it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.70it/s]
+Epoch: 71 | Epoch Train Time: 0m 33s
+	Train Loss: 2.018 | Train Acc: 25.47%
+	 Val. Loss: 1.995 |  Val. Acc: 25.70%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.33it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.28it/s]
+Epoch: 72 | Epoch Train Time: 0m 33s
+	Train Loss: 2.018 | Train Acc: 25.78%
+	 Val. Loss: 1.988 |  Val. Acc: 27.03%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.44it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.46it/s]
+Epoch: 73 | Epoch Train Time: 0m 33s
+	Train Loss: 2.015 | Train Acc: 25.65%
+	 Val. Loss: 1.990 |  Val. Acc: 25.90%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.32it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.76it/s]
+Epoch: 74 | Epoch Train Time: 0m 33s
+	Train Loss: 2.010 | Train Acc: 25.99%
+	 Val. Loss: 1.988 |  Val. Acc: 26.47%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.36it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.94it/s]
+Epoch: 75 | Epoch Train Time: 0m 33s
+	Train Loss: 2.007 | Train Acc: 26.28%
+	 Val. Loss: 1.987 |  Val. Acc: 26.73%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.30it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.84it/s]
+Epoch: 76 | Epoch Train Time: 0m 33s
+	Train Loss: 2.002 | Train Acc: 26.42%
+	 Val. Loss: 1.977 |  Val. Acc: 26.77%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.33it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.35it/s]
+Epoch: 77 | Epoch Train Time: 0m 33s
+	Train Loss: 2.004 | Train Acc: 26.47%
+	 Val. Loss: 1.979 |  Val. Acc: 26.20%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.33it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.75it/s]
+Epoch: 78 | Epoch Train Time: 0m 33s
+	Train Loss: 2.008 | Train Acc: 26.40%
+	 Val. Loss: 1.978 |  Val. Acc: 27.50%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.27it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.38it/s]
+Epoch: 79 | Epoch Train Time: 0m 33s
+	Train Loss: 1.999 | Train Acc: 26.33%
+	 Val. Loss: 1.974 |  Val. Acc: 27.50%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.34it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.56it/s]
+Epoch: 80 | Epoch Train Time: 0m 33s
+	Train Loss: 1.998 | Train Acc: 26.23%
+	 Val. Loss: 1.971 |  Val. Acc: 27.03%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.31it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.94it/s]
+Epoch: 81 | Epoch Train Time: 0m 33s
+	Train Loss: 1.997 | Train Acc: 26.78%
+	 Val. Loss: 1.966 |  Val. Acc: 27.17%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.31it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.71it/s]
+Epoch: 82 | Epoch Train Time: 0m 33s
+	Train Loss: 1.997 | Train Acc: 26.31%
+	 Val. Loss: 1.963 |  Val. Acc: 26.87%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.32it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.79it/s]
+Epoch: 83 | Epoch Train Time: 0m 33s
+	Train Loss: 1.989 | Train Acc: 26.81%
+	 Val. Loss: 1.960 |  Val. Acc: 27.70%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.33it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.74it/s]
+Epoch: 84 | Epoch Train Time: 0m 33s
+	Train Loss: 1.989 | Train Acc: 26.77%
+	 Val. Loss: 1.957 |  Val. Acc: 28.53%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.33it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.65it/s]
+Epoch: 85 | Epoch Train Time: 0m 33s
+	Train Loss: 1.988 | Train Acc: 26.74%
+	 Val. Loss: 1.955 |  Val. Acc: 27.50%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.32it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.09it/s]
+Epoch: 86 | Epoch Train Time: 0m 33s
+	Train Loss: 1.983 | Train Acc: 26.31%
+	 Val. Loss: 1.955 |  Val. Acc: 28.33%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.27it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.22it/s]
+Epoch: 87 | Epoch Train Time: 0m 33s
+	Train Loss: 1.988 | Train Acc: 25.95%
+	 Val. Loss: 1.951 |  Val. Acc: 27.07%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.34it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.51it/s]
+Epoch: 88 | Epoch Train Time: 0m 33s
+	Train Loss: 1.981 | Train Acc: 26.68%
+	 Val. Loss: 1.951 |  Val. Acc: 28.53%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.29it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.70it/s]
+Epoch: 89 | Epoch Train Time: 0m 33s
+	Train Loss: 1.977 | Train Acc: 26.68%
+	 Val. Loss: 1.946 |  Val. Acc: 27.67%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.33it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.31it/s]
+Epoch: 90 | Epoch Train Time: 0m 33s
+	Train Loss: 1.976 | Train Acc: 27.02%
+	 Val. Loss: 1.943 |  Val. Acc: 28.40%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.25it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.71it/s]
+Epoch: 91 | Epoch Train Time: 0m 33s
+	Train Loss: 1.974 | Train Acc: 27.04%
+	 Val. Loss: 1.941 |  Val. Acc: 28.17%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.29it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.87it/s]
+Epoch: 92 | Epoch Train Time: 0m 33s
+	Train Loss: 1.969 | Train Acc: 27.62%
+	 Val. Loss: 1.940 |  Val. Acc: 28.33%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.32it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 19.90it/s]
+Epoch: 93 | Epoch Train Time: 0m 33s
+	Train Loss: 1.968 | Train Acc: 27.14%
+	 Val. Loss: 1.937 |  Val. Acc: 27.53%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.27it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.08it/s]
+Epoch: 94 | Epoch Train Time: 0m 33s
+	Train Loss: 1.962 | Train Acc: 27.57%
+	 Val. Loss: 1.932 |  Val. Acc: 28.60%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.29it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.94it/s]
+Epoch: 95 | Epoch Train Time: 0m 33s
+	Train Loss: 1.964 | Train Acc: 27.11%
+	 Val. Loss: 1.933 |  Val. Acc: 27.90%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.23it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.52it/s]
+Epoch: 96 | Epoch Train Time: 0m 33s
+	Train Loss: 1.970 | Train Acc: 26.79%
+	 Val. Loss: 1.931 |  Val. Acc: 28.57%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.30it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.48it/s]
+Epoch: 97 | Epoch Train Time: 0m 33s
+	Train Loss: 1.960 | Train Acc: 27.04%
+	 Val. Loss: 1.926 |  Val. Acc: 28.93%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.22it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.32it/s]
+Epoch: 98 | Epoch Train Time: 0m 33s
+	Train Loss: 1.955 | Train Acc: 27.10%
+	 Val. Loss: 1.924 |  Val. Acc: 28.10%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.25it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.34it/s]
+Epoch: 99 | Epoch Train Time: 0m 33s
+	Train Loss: 1.956 | Train Acc: 27.33%
+	 Val. Loss: 1.927 |  Val. Acc: 28.00%
+Training: 100%|██████████| 313/313 [00:33<00:00,  9.26it/s]
+Validation: 100%|██████████| 94/94 [00:04<00:00, 20.35it/s]
+Epoch: 100 | Epoch Train Time: 0m 33s
+	Train Loss: 1.947 | Train Acc: 28.14%
+	 Val. Loss: 1.917 |  Val. Acc: 28.67%
